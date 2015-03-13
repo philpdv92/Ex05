@@ -1,0 +1,19 @@
+ex06
+
+19/20
+
+README :
+nom du cours?
+votre nom?
+
+voir https://www.dartlang.org/articles/style-guide/
+
+Ex05_MAIN.dart --> ex05_main
+
+(-1) Exercice 5 no 1
+var phrase = "Bonjour je suis 44 beau";
+else if (expression.allMatches(phrase).length == 1)
+Exercice no1 ??
+Exercice no2
+Praesent vehicula libero sit amet quam lobortis, eu malesuada arcu dapibus.
+
