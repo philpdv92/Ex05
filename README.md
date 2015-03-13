@@ -1,3 +1,5 @@
 # Ex05
 
-A minimal command-line application.
+Philippe Pâquet-De Varennes
+SIO-2109 (Introduction à la programmation)
+Université Laval
